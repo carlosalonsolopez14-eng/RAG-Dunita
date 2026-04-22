@@ -1,0 +1,12 @@
+[submodule "Dunita"]
+	path = Dunita
+	url = https://github.com/carlosalonsolopez14-eng/Dunita.git
+[submodule "studio"]
+	path = studio
+	url = https://github.com/carlosalonsolopez14-eng/studio.git
+[submodule "Documentacion-dunita"]
+	path = Documentacion-dunita
+	url = https://github.com/Victorlopezro/Documentacion-dunita.git
+[submodule "Dunita-Game-V2"]
+	path = Dunita-Game-V2
+	url = https://github.com/Victorlopezro/Dunita-Game-V2.git
